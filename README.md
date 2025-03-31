@@ -3,6 +3,8 @@
 ## 🚀 Overview
 The **Age Calculator** is a simple and fun web application that helps you calculate your exact age in years, months, and days! 🕰️ Built with HTML, CSS, and JavaScript, it's easy to use and visually appealing. 💡
 
+🔗 **Live Demo:** [Age Calculator](https://age-calculator-psi-drab.vercel.app/) 🌍
+
 ## ✨ Features
 ✅ Select your birthdate using a date picker 📅  
 ✅ Click "Calculate" and get your exact age in seconds ⏳  
